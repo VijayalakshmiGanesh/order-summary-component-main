@@ -191,6 +191,10 @@ button:hover {
         width: 21rem;
     }
 
+    .content {
+        padding: 0 1.2rem;
+    }
+
     .hero-banner {
         width: 21rem;
     }
