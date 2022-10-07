@@ -17,8 +17,6 @@ body {
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
-
-
 }
 
 .container {
@@ -197,6 +195,7 @@ button:hover {
 
     .hero-banner {
         width: 21rem;
+        height: 11.5rem;
     }
 
     .price-contents {
