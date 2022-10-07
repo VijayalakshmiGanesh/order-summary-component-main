@@ -196,7 +196,7 @@ button:hover {
 
     .hero-banner {
         width: 21rem;
-        height: 10.5rem;
+        height: 10.4rem;
     }
 
     .price-contents {
@@ -214,5 +214,10 @@ button:hover {
 
     .sec-3 {
         padding: 0.8rem 0 0.6rem 1rem;
+    }
+
+    #payment,
+    button {
+        font-size: 15px;
     }
 }
