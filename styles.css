@@ -106,12 +106,7 @@ body {
     padding: 0.8rem 0 0.6rem 2rem;
 }
 
-.p-bold {
-    font-weight: 900;
-    color: var(--Dark-blue);
-}
-
-section p {
+.sec-2 p {
     font-family: 'Red Hat Display', sans-serif;
     padding: 0;
     margin: 0;
@@ -119,13 +114,18 @@ section p {
     line-height: 1.5rem;
 }
 
-section a {
+#p-bold {
+    font-weight: 900;
+    color: var(--Dark-blue);
+}
+
+.sec-3 a {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 500;
     font-size: 14px;
 }
 
-section a:hover {
+.sec-3 a:hover {
     color: #7b79d4;
     text-decoration: none;
     font-family: 'Red Hat Display', sans-serif;
