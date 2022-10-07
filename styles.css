@@ -187,6 +187,7 @@ button:hover {
     .container {
         /* margin: 0 1rem; */
         width: 21rem;
+        height: 34rem;
     }
 
     .content {
@@ -195,7 +196,7 @@ button:hover {
 
     .hero-banner {
         width: 21rem;
-        height: 10.7rem;
+        height: 10.5rem;
     }
 
     .price-contents {
